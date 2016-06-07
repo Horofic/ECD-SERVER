@@ -4,7 +4,7 @@ var dateFormat = require('dateformat');
 var db = mysql.createConnection({
 		host : 'localhost',
 		user : 'root',
-		password : '39242r12f9',
+		password : 'careniet',
 		database : 'mydb'
 	});
 
